@@ -20,9 +20,9 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 I’d be happy if you like my work: https://buymeacoffee.com/marthafay
 Author: Martha Elias
-DOI: 10.5281/zenodo.17475177
+
 Version: v1.0 (October 2025)
-marthaelias [at] protonmail [dot] com
+I want to get hired! Contact: marthaelias [at] protonmail [dot] com
 """
 # test_demo.py
 import importlib
